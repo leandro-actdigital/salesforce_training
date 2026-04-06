@@ -4,3 +4,11 @@ Aqui iremos fazer testes e quebrar as branches conforme vamos criando diversos a
 
 
 
+1 - Abrir powershell e rodas os comandos a seguir
+
+2 - cd C:\\Users\\RomuloAdrielTagliafe\\Downloads
+
+3 - git clone https://github.com/leandro-actdigital/salesforce\_training.git
+
+
+
