@@ -8,6 +8,10 @@ Aqui iremos fazer testes e quebrar as branches conforme vamos criando diversos a
 
 3 - git clone https://github.com/leandro-actdigital/salesforce\_training.git
 
+Mauricio
+    1.3 comando  cd ls 
+    1.4 editar texto dentro da readme.md
+
+
 ### Abra o arquivo README.md e edite ele.
 Dentro do arquivo será dividido entre as 3 pessoas.
-
