@@ -18,3 +18,5 @@ Dentro do arquivo será dividido entre as 3 pessoas.
 
 
 Ensinando pull request.
+
+pull request 2
